@@ -10,6 +10,12 @@ namespace mediallesopdracht
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("name?");
+            string inputName = Console.ReadLine();
+            Console.WriteLine("age?");
+            string inputAge = Console.ReadLine();
+            Console.WriteLine("your name is " + inputName + " and you are " + inputAge + " years old.");
+
         }
     }
 }
