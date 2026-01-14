@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="opdracht 2\bathroom.cs" />
+    <Compile Include="opdracht 2\bedroom.cs" />
+    <Compile Include="opdracht 2\gardens.cs" />
+    <Compile Include="opdracht 2\kitchen.cs" />
+    <Compile Include="opdracht 2\livingroom.cs" />
+    <Compile Include="opdracht 2\upstairs.cs" />
+    <Compile Include="opdracht 2\downstairs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
