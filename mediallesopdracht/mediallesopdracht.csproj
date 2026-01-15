@@ -50,6 +50,7 @@
     <Compile Include="opdracht 2\livingroom.cs" />
     <Compile Include="opdracht 2\upstairs.cs" />
     <Compile Include="opdracht 2\downstairs.cs" />
+    <Compile Include="opdracht 3\weather.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
